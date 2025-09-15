@@ -1,0 +1,5 @@
+{
+  "name": "PDF to EPUB AI Converter",
+  "description": "An intelligent web application that uses AI to convert PDF documents into well-structured EPUB files. Upload your PDF, and let the AI analyze and reformat the content into a downloadable e-book format.",
+  "requestFramePermissions": []
+}
